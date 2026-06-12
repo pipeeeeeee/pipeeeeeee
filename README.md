@@ -25,7 +25,7 @@
 
 ---
 
-## 💼 About
+## 💼 Sobre mí
 
 ```typescript
 const pipe = {
@@ -39,7 +39,7 @@ const pipe = {
 
 Ingeniero en formación con enfoque en **desarrollo full stack y mobile**, **algoritmos avanzados** y **búsqueda semántica con embeddings**. Experiencia construyendo productos end-to-end: desde la arquitectura del backend y la base de datos hasta la app móvil en producción, con CI/CD y notificaciones en tiempo real.
 
-**🟣 Open To:** Prácticas profesionales · Proyectos freelance · Colaboración open source · Roles junior en ingeniería de software
+**🟣 Abierto a:** Prácticas profesionales · Proyectos freelance · Colaboración open source · Roles junior en ingeniería de software
 
 ---
 
@@ -47,7 +47,7 @@ Ingeniero en formación con enfoque en **desarrollo full stack y mobile**, **alg
 
 <div align="center">
 
-**Languages**
+**Lenguajes**
 
 <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,java&theme=dark"/>
 
@@ -67,7 +67,7 @@ Ingeniero en formación con enfoque en **desarrollo full stack y mobile**, **alg
 
 ---
 
-## 🤖 AI / ML & Algorithms Expertise
+## Experiencia en IA/ML y algoritmos
 
 | Domain | Proficiency | Details |
 |:-------|:-----------:|:--------|
@@ -79,7 +79,7 @@ Ingeniero en formación con enfoque en **desarrollo full stack y mobile**, **alg
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Proyectos
 
 <details>
 <summary><b>🚚 TruckGO — Freight Marketplace App</b></summary>
@@ -159,7 +159,7 @@ Código simple y legible, priorizando claridad sobre micro-optimización.
 
 ---
 
-## 💼 Experience
+## 💼 Experiencia
 
 **Desarrollador Full Stack (Proyecto Independiente)** · TruckGO
 <sub>2025 — Presente</sub>
@@ -174,13 +174,13 @@ Diseño y desarrollo de un marketplace de fletes para Chile, liderando producto 
 
 ---
 
-## 🏆 Achievements
+## 🏆 Logros
 
 <div align="center">
 
 | Recognition | Details |
 |:-----------:|:--------|
-| 🥇 Proyecto destacado INF-413 | Motor de búsqueda semántica con análisis comparativo de estructuras espaciales |
+| 🥇 Proyecto destacado | Motor de búsqueda semántica con análisis comparativo de estructuras espaciales |
 | 📱 Producto en desarrollo activo | TruckGO: app full stack con fases de auth, mapas, chat y notificaciones completadas |
 | 📚 Investigación académica | Estudio correlacional sobre habilidades sociales y rendimiento académico/laboral en Talca |
 
@@ -188,7 +188,7 @@ Diseño y desarrollo de un marketplace de fletes para Chile, liderando producto 
 
 ---
 
-## 📜 Certifications
+## 📜 Certificaciones
 
 **Universidad Católica del Maule**
 
@@ -201,7 +201,7 @@ Diseño y desarrollo de un marketplace de fletes para Chile, liderando producto 
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 Análisis de GitHub
 
 <div align="center">
 
@@ -214,17 +214,8 @@ Diseño y desarrollo de un marketplace de fletes para Chile, liderando producto 
 
 ---
 
-## 🏅 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pipeeeeeee&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10"/>
-
-</div>
-
----
-
-## 📊 Contribution Activity
+## 📊 Actividad de contribuciones
 
 <div align="center">
 
@@ -234,7 +225,7 @@ Diseño y desarrollo de un marketplace de fletes para Chile, liderando producto 
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Serpiente de contribuciones
 
 <div align="center">
 
@@ -244,23 +235,23 @@ Diseño y desarrollo de un marketplace de fletes para Chile, liderando producto 
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Focos actuales
 
 ```yaml
-learning:
+Aprendiendo:
   - Diseño y Análisis de Algoritmos avanzados
   - Estructuras de búsqueda espacial y vectorial
   - Arquitectura de sistemas en tiempo real
 
-building:
+Construyendo:
   - TruckGO: marketplace de fletes para Chile
   - Implementaciones de algoritmos de grafos en C++
 
-exploring:
+Explorando:
   - Embeddings y búsqueda semántica a escala
   - Optimización de pipelines CI/CD
 
-open_to:
+Abierto a:
   - Prácticas profesionales
   - Colaboración open source
   - Proyectos freelance
@@ -268,14 +259,14 @@ open_to:
 
 ---
 
-## 🤝 Connect
+## 🤝 Enlaces
 
 <div align="center">
 
 <a href="mailto:pipemonsalve86@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/TU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/cristian-felipe-monsalve-palma-a40488345/"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/pipeeeeeee"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://TU-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+
 
 </div>
 
@@ -283,7 +274,7 @@ open_to:
 
 <div align="center">
 
-*"Code with purpose, ship with precision."*
+*"Haciendo lo mío, haciéndolo mío"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,20,24&height=120&section=footer" width="100%"/>
 
