@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,20,24&height=200&section=header&text=Pipe%20%7C%20pipeeeeeee&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20AI%20%2F%20Algorithms&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,20,24&height=200&section=header&text=Cristian Monsalve%20%7C%20pipeeeeeee&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20AI%20%2F%20Algorithms&descSize=18&descAlignY=55" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Ingenier%C3%ADa+Civil+Inform%C3%A1tica+%40+UCM;Full+Stack+%26+Mobile+Developer;Algorithms+%26+Data+Structures;Building+TruckGO+%F0%9F%9A%9A" alt="Typing SVG"/>
 
